@@ -1,1 +1,2 @@
 This activity focuses on learning Git commands and managing repositories using GitHub.
+This line was added to demonstrate Git branching and version control
